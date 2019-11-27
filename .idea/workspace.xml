@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3143b6e4-5052-4a71-9bcc-6cad45162a5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/creatures/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/creatures/ILiving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/creatures/Mumintroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/creatures/Rat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/environment/ISpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/environment/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/laba3/environment/Space.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Character.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/ILiving.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/ILiving.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Mumintroll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Mumintroll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Rat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/creatures/Rat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/environment/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/environment/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab3/laba3/environment/Space.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/laba3/environment/Space.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/creatures/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/creatures/Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/creatures/ILiving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/creatures/ILiving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/creatures/Mumintroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/creatures/Mumintroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/creatures/Rat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/creatures/Rat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/environment/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/environment/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/laba3/environment/Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/laba3/environment/Space.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +140,14 @@
       <workItem from="1573480692889" duration="10652000" />
       <workItem from="1574604038056" duration="21785000" />
     </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1574873718423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574873718423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
